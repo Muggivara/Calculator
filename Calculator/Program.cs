@@ -1,7 +1,7 @@
 ﻿
 
 
-namespace Lessons_Csharp
+namespace Calculator
 {
     internal class Program
     {
